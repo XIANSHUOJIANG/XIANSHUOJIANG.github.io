@@ -1,1 +1,24 @@
-theme: jekyll-theme-tactile
+title: XianShuo Jiang
+subtitle: Master student at University of Melbourne
+description: Website and portfolio of XianShuo Jiang.
+
+author: XianShuo Jiang
+email: xianshuoj@student.edu.au
+avatar: assets/images/photo.jpg
+
+baseurl: ""
+url: "https://XIANSHUOJIANG.github.io/"
+
+# Social settings
+facebook_url: https://www.facebook.com/100024812850307
+github_url: https://github.com/XIANSHUOJIANG
+linkedin_url: http://linkedin.com/in/xianshuo-jiang-83502a15b
+
+# Build settings
+remote_theme: chrisbobbe/jekyll-theme-prologue
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Necessary for Prologue theme:
+collections: [sections]
