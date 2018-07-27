@@ -7,7 +7,7 @@ order: 2
 ---
 University of Melbourne<br>
 Melbourne, Victoria, Australia<br>
-Phone: (61)045-086-8869<br>
+Phone: (61)047-875-5692<br>
 Email: xianshuoj@student.unimelb.edu.au<br><br>
 Here is my [CV](assets/CV-XIANSHUOJIANG.pdf).
 
@@ -57,4 +57,18 @@ Microcomputer
 
 -----------------
 
-## Ex-curricular Activities
+## EX-CURRICULAR ACTIVITIES
+
+* Volunteer of selling idle items and raise money poor students, May.2014
+* Undersecretary of public relationship Department of Student Union and receive 10800 yuan sponsorship for welcome party 2014-2015
+* Voluntary work for autistic children 2014-2015
+* Volunteer in Welcoming Ceremony, 2015
+
+-----------------
+
+## SELF-EVALUATION
+
+*	Both Programming, Semiconductor And Electronic Design Skill
+*	Very Strong Ability in Communication with Others to Solve the Problem
+
+
